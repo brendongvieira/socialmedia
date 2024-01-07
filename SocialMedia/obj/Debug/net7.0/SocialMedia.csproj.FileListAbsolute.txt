@@ -1,0 +1,14 @@
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\bin\Debug\net7.0\SocialMedia.exe
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\bin\Debug\net7.0\SocialMedia.deps.json
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\bin\Debug\net7.0\SocialMedia.runtimeconfig.json
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\bin\Debug\net7.0\SocialMedia.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\bin\Debug\net7.0\SocialMedia.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfoInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfo.cs
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\refint\SocialMedia.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\SocialMedia.genruntimeconfig.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\SocialMedia\SocialMedia\obj\Debug\net7.0\ref\SocialMedia.dll
